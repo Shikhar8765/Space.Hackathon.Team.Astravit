@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693148620185",
+    "project_id": "bhuvanapplication-85b94",
+    "storage_bucket": "bhuvanapplication-85b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693148620185:android:f0c983c9870b4d1265ef08",
+        "android_client_info": {
+          "package_name": "com.example.bhuvanapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9pa4S-kdGQxTHnvrUZWh3X3o7u_-YYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
